@@ -3,4 +3,4 @@
 function suma($a, $b) {
     return $a + $b;
 }
-echo "Hola, GitHub Actions!";
+echo "Hola, se modificó el archivo GitHub Actions!";
